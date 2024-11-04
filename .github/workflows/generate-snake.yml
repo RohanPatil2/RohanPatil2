@@ -21,6 +21,14 @@ jobs:
           github_user_name: ToxicCoder02
           outputs: dist/snake.svg
 
+      # Verify the file generation for debugging
+      - name: Verify Snake Animation File
+        run: |
+          echo "Listing contents of the dist directory:"
+          ls dist || echo "Directory not found or empty"
+          echo "Contents of the generated SVG file (if available):"
+          cat dist/snake.svg || echo "File not found or empty"
+
       # Push the generated snake animation to the output branch
       - name: Push Snake Animation to GitHub
         uses: ad-m/github-push-action@v0.6.0
