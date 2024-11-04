@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan Upendra Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate+Student;Aspiring+Software+Engineer;Competitive+Programmer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduate+Student+in+Computer+Science;Aspiring+AI+Engineer;Machine+Learning+Researcher;Competitive+Programmer;Always+learning+new+things">
   </a>
 </p>
 
@@ -20,10 +20,11 @@
 - 🎓 **Graduate Student** at **Binghamton University**, pursuing **Master's in Computer Science** (Expected: May 2026)
 - 🏫 **Bachelor of Engineering** in **Computer Engineering** from **AISSMS College of Engineering, Pune** (July 2020 - June 2024), GPA: **3.58/4.00**
 - 💻 Experienced with `Python`, `C`, `C++`, `HTML`, `CSS`, `JavaScript`, `SQL`, `PHP`
-- 🛠 Proficient in tools like **VS Code**, **Git**, **Power BI**, **Anaconda**, **Tableau**
-- 📜 Certified by **Stanford University** on Machine Learning, and other professional courses on **TensorFlow**, **Oracle Database**, and **AWS Machine Learning**
-- 🔍 Interested in **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Web Development**
-- 🌱 Continuously learning and looking for opportunities in **Software Engineering** and **Data Science**
+- 🧠 Strong background in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **AI Algorithms**
+- 🛠 Proficient in tools like **TensorFlow**, **Keras**, **PyTorch**, **scikit-learn**, **VS Code**, **Git**, **Power BI**, **Anaconda**, **Tableau**
+- 🌱 Continuously learning and looking for opportunities in **AI/ML engineering** and **Data Science**
+- 📜 Certified by **Stanford University** on Machine Learning, **TensorFlow** courses, and **AWS Machine Learning Essentials**
+- 🔍 Interested in **AI Model Deployment**, **Big Data**, and **Cloud Computing**
 
 ## 🏆 Experience & Internships
 - **Data Scientist Intern** at **Ahen**, Pune (Aug 2022 - Jan 2023)
@@ -46,7 +47,7 @@
 - **Analyzing Amazon Fine Food Reviews with Machine Learning** (Published: Oct 2023, [Read here](https://doi.org/10.22214/ijraset.2023.55930))
 
 ## 🛠 Skills
-### Programming Languages
+### Programming Languages & Technologies
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
@@ -56,6 +57,18 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
 </p>
 
+### Machine Learning & AI
+<p align="center">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23FF0000.svg?style=plastic&logo=OpenCV&logoColor=white" />
+</p>
+
 ### Developer Tools
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
@@ -63,6 +76,14 @@
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=plastic&logo=Tableau&logoColor=white" />
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=plastic&logo=powerbi&logoColor=black" />
+  <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=plastic&logo=jira&logoColor=white" />
+</p>
+
+### Cloud & Deployment
+<p align="center">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" />
 </p>
 
 ## 📫 Connect with Me
