@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 12:00 AM UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository to access GitHub Actions
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generate the snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ToxicCoder02
+          outputs: dist/snake.svg
+
+      # Push the generated snake animation to the output branch
+      - name: Push Snake Animation to GitHub
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          force: true
+          file: dist/snake.svg
