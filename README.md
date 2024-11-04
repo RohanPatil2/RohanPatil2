@@ -19,7 +19,7 @@
 
 - 🎓 **Graduate Student** at **Binghamton University**, pursuing **Master's in Computer Science** (Expected: May 2026)
 - 🏫 **Bachelor of Engineering** in **Computer Engineering** from **AISSMS College of Engineering, Pune**, GPA: **3.58/4.00**
-- 💻 Experienced in **Python**, **C++, **JavaScript**, **SQL**, and **PHP**
+- 💻 Experienced in **Python**, **C++**, **JavaScript**, **SQL**, and **PHP**
 - 🤖 Specializing in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **AI Algorithms**
 - 🛠 Proficient with **TensorFlow**, **Keras**, **PyTorch**, **scikit-learn**, **OpenCV**, and **MATLAB**
 - 🌱 Passionate about **AI Model Deployment**, **Big Data Analysis**, and **Cloud-based Solutions**
@@ -28,7 +28,7 @@
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=50px> </picture> Connect with Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=50px></picture> Connect with Me
 <p align="center">
   <a href="mailto:rpatil4@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/RohanPatil7979"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
@@ -38,7 +38,8 @@
 ---
 
 ## 🛠 Skills
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming Languages
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px></picture> Programming Languages
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
@@ -47,7 +48,9 @@
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/ML_AI.gif?raw=true" width = 50px> </picture> Machine Learning & AI
+---
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/ML_AI.gif?raw=true" width=50px></picture> Machine Learning & AI
 <p align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white" />
@@ -59,7 +62,9 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" />
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width = 50px> </picture> Developer Tools
+---
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width=50px></picture> Developer Tools
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
@@ -70,7 +75,9 @@
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width = 50px> </picture> Cloud & Deployment
+---
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width=50px></picture> Cloud & Deployment
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
