@@ -39,18 +39,7 @@
 
 ## 🛠 Skills
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px></picture> Programming Languages
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
-</p>
-
----
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/ML_AI.gif?raw=true" width=50px></picture> Machine Learning & AI
+### ![ML AI Icon](https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png) Machine Learning & AI
 <p align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white" />
@@ -64,7 +53,7 @@
 
 ---
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width=50px></picture> Developer Tools
+### ![Developer Tools Icon](https://img.icons8.com/ios-filled/50/000000/developer.png) Developer Tools
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
@@ -77,13 +66,14 @@
 
 ---
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width=50px></picture> Cloud & Deployment
+### ![Cloud Icon](https://img.icons8.com/ios-filled/50/000000/cloud.png) Cloud & Deployment
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" />
 </p>
+
 
 ---
 
