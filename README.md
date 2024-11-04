@@ -44,4 +44,77 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
+</p>
+
+---
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/ML_AI.gif?raw=true" width=50px></picture> Machine Learning & AI
+<p align="center">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23FF0000.svg?style=plastic&logo=OpenCV&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width=50px></picture> Developer Tools
+<p align="center">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=plastic&logo=Tableau&logoColor=white" />
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=plastic&logo=powerbi&logoColor=black" />
+  <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=plastic&logo=jira&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
+</p>
+
+---
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width=50px></picture> Cloud & Deployment
+<p align="center">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicCoder02&theme=tokyonight_duo" alt="ToxicCoder02" /></p>
+</details>
+
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <p align="center">
+    <img alt="ToxicCoder02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToxicCoder02&show_icons=true&theme=tokyonight" height="230px"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicCoder02&langs_count=8&layout=compact&theme=tokyonight" height="230px"/>
+  </p>
+</details>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <p align="center">
+    <img alt="ToxicCoder02's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ToxicCoder02&theme=github"/>
+  </p>
+</details>
+
+<details>
+  <summary>🏆 Git Profile Trophies</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ToxicCoder02&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  </p>
+</details>
+
+<p align="center">
+  <img src="https://github.com/ToxicCoder02/ToxicCoder02/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
