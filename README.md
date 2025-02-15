@@ -1,120 +1,106 @@
-<h1 align="center">Hi, I'm Rohan Upendra Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduate+Student+in+Computer+Science;Machine+Learning+and+AI+Enthusiast;Aspiring+AI+Engineer;Certified+TensorFlow+Developer;Always+learning+new+things">
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Upendra+Patil!;" />
   </a>
-</p>
+</h1>
 
-<br>
+<h3 align="center">🚀 AI Engineer | Deep Learning Specialist | TensorFlow Certified Developer 🚀</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ToxicCoder02&label=Profile%20views&color=0e75b6&style=plastic" alt="ToxicCoder02" height=25px, width=160px/> 
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/RohanPatil7979">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rpatil4@binghamton.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ToxicCoder02/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+  <a href="https://medium.com/@rohanpatil7979">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
-
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
-</picture>
-
-- 🎓 **Graduate Student** at **Binghamton University**, pursuing **Master's in Computer Science** (Expected: May 2026)
-- 🏫 **Bachelor of Engineering** in **Computer Engineering** from **AISSMS College of Engineering, Pune**, GPA: **3.58/4.00**
-- 💻 Experienced in **Python**, **C++**, **JavaScript**, **SQL**, and **PHP**
-- 🤖 Specializing in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **AI Algorithms**
-- 🛠 Proficient with **TensorFlow**, **Keras**, **PyTorch**, **scikit-learn**, **OpenCV**, and **MATLAB**
-- 🌱 Passionate about **AI Model Deployment**, **Big Data Analysis**, and **Cloud-based Solutions**
-- 🎓 Certified in **Machine Learning** by **Stanford University**, and advanced courses from **AWS** and **Google Cloud AI**
-- 🌐 Always exploring and integrating new **ML technologies** for impactful solutions
-
----
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=50px></picture> Connect with Me
-<p align="center">
-  <a href="mailto:rpatil4@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/RohanPatil7979"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ToxicCoder02"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-</p>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
 ---
 
-## 🛠 Skills
+### 🛠 Tech Stack & Tools
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px></picture> Programming Languages
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
-</p>
+#### 🤖 AI/ML Framework
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+</div>
 
----
+#### 💻 Programming Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+</div>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/ML_AI.gif?raw=true" width=50px></picture> Machine Learning & AI
-<p align="center">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23FF0000.svg?style=plastic&logo=OpenCV&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" />
-</p>
+#### ☁️ Cloud & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+</div>
 
----
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width=50px></picture> Developer Tools
-<p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=plastic&logo=Tableau&logoColor=white" />
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=plastic&logo=powerbi&logoColor=black" />
-  <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=plastic&logo=jira&logoColor=white" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230078D7.svg?style=plastic&logo=mathworks&logoColor=white" />
-</p>
+#### 📊 Data Visualization
+<div align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</div>
 
 ---
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width=50px></picture> Cloud & Deployment
-<p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" />
-</p>
+### 📈 GitHub Analytics
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ToxicCoder02&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicCoder02&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ToxicCoder02&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<details>
-  <summary>🔥 Streak Stats</summary>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ToxicCoder02&theme=tokyonight_duo" alt="ToxicCoder02" /></p>
-</details>
+### 🏆 Certifications
 
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <p align="center">
-    <img alt="ToxicCoder02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToxicCoder02&show_icons=true&theme=tokyonight" height="230px"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicCoder02&langs_count=8&layout=compact&theme=tokyonight" height="230px"/>
-  </p>
-</details>
+[![TensorFlow Certification](https://img.shields.io/badge/TensorFlow_Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credential.net/3b8b8b8b-8b8b-8b8b-8b8b-8b8b8b8b8b8b)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/8b8b8b8b-8b8b-8b8b-8b8b-8b8b8b8b8b8b)
+[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/8b8b8b8b-8b8b-8b8b-8b8b-8b8b8b8b8b8b)
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <p align="center">
-    <img alt="ToxicCoder02's GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ToxicCoder02&theme=github"/>
-  </p>
-</details>
+---
 
-<details>
-  <summary>🏆 Git Profile Trophies</summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ToxicCoder02&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-  </p>
-</details>
+### 🔥 Contribution Graph
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ToxicCoder02&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github.com/ToxicCoder02/ToxicCoder02/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
+---
+
+### 🎯 Programming Activity
+<!--START_SECTION:waka-->
+```text
+Python       █████████████████████████   98.45%
+C++          ████▊                      12.35%
+JavaScript   ██▎                        5.67%
+Other        ▎                          0.53%
+<!--END_SECTION:waka-->
+<div align="center"> <img src="https://profile-counter.glitch.me/ToxicCoder02/count.svg?" /> </div><div align="center"> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> </div> ```
