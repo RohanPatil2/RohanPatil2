@@ -86,35 +86,73 @@
 
 ### 📊 Programming Activity
 
-#### 🕰️ Weekly Development Breakdown
+#### 🌟 Weekly Development Breakdown
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://progress-bar.dev/85/?title=Python&scale=100&width=400&color=3776ab&suffix=%" />
+    </td>
+    <td width="40%">
+      <img src="https://progress-bar.dev/12/?title=JavaScript&scale=100&width=400&color=f7df1e&suffix=%" />
+    </td>
+    <td width="20%">
+      <img src="https://progress-bar.dev/2.5/?title=C++&scale=100&width=200&color=00599c&suffix=%" />
+    </td>
+  </tr>
+</table>
 
-Python        ████████████████████████████▓░░░░   85.4%  
+#### 🏅 Language Expertise
+<div align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge&color=3776AB" />
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&color=FF6F00" />
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-Proficient-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
 
-JavaScript    ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░   12.1%
+#### 🚀 Weekly Development Stats
+<details>
+<summary><b>📆 Click to expand weekly insights</b></summary>
 
-C++           █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+🔥 Focus Areas Breakdown:
+┌──────────────────────────────┬─────────────┐
+│        Activity              │   Time      │
+├──────────────────────────────┼─────────────┤
+│ Machine Learning Pipelines   │ 🧠 25h 14m  │
+│ Model Optimization           │ ⚙️ 18h 39m  │
+│ Cloud Deployment             │ ☁️ 12h 52m  │
+│ Code Reviews                 │ 👓 6h 23m   │
+└──────────────────────────────┴─────────────┘
 
-📚 Language Expertise
-Python
-TensorFlow
-AWS
-C++
-
-🚀 Weekly Development Stats
+⏳ Productivity Patterns:
+╔═════════════════╦══════════════════════════╗
+║    Period       ║       Intensity         ║
+╠═════════════════╬══════════════════════════╣
+║ 🌙 Nights       ║ █████████████░░ 45.2%   ║
+║ 🌞 Days         ║ ██████████▓░░░ 32.1%    ║
+║ 🌅 Mornings     ║ ████▒░░░░░░░░ 22.7%    ║
+╚═════════════════╩══════════════════════════╝
+</details>
+📈 Real-time Coding Activity
 <!--START_SECTION:waka-->
-text
-Copy
-🏆  This Week I Focused On: 
-• Machine Learning Pipelines     🧠 25h 14m 
-• Model Optimization             ⚙️ 18h 39m 
-• Cloud Deployment               ☁️ 12h 52m 
-• Code Reviews                   👓 6h 23m 
 
-📅  Weekly Breakdown:
-🌙 Nights  █████████████░░░░░░░░░░░░   45.2% 
-🌞 Days    ██████████▓░░░░░░░░░░░░░░   32.1% 
-🌅 Mornings████▒░░░░░░░░░░░░░░░░░░░░   22.7%
-<!--END_SECTION:waka-->
+📅 Weekly Development Rhythm        🕒 Historical Trend
+  20h                               ┌──────────────────┐
+  18h                               │▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
+  16h                               │▓▓▓▓▓▓▓▓▓▓▓      │
+  14h                               │▓▓▓▓▓▓▓▓         │
+  12h                               │▓▓▓▓▓            │
+  10h                               └──────────────────┘
+    Mon    Wed    Fri    Sun
+<!--END_SECTION:waka--><div align="center"> <img src="https://github.com/RohanPatil2/RohanPatil2/blob/main/images/tech_stack.gif" width="600" alt="Coding Activity"> </div> ```
+
 📈 GitHub Analytics
 <table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=RohanPatil2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" /> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPatil2&layout=compact&theme=radical&hide_border=true&langs_count=8" /> </td> </tr> </table><div align="center"> <img src="https://streak-stats.demolab.com?user=RohanPatil2&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" /> </div>
 🏆 Recent Achievements
