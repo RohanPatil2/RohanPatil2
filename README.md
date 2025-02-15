@@ -88,9 +88,12 @@
 
 #### 🕰️ Weekly Development Breakdown
 
-Python        ████████████████████████████▓░░░░   85.4% 
+Python        ████████████████████████████▓░░░░   85.4%  
+
 JavaScript    ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░   12.1%
+
 C++           █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+
 📚 Language Expertise
 Python
 TensorFlow
@@ -130,4 +133,4 @@ Google Cloud AI
 
 ⚡ Fun fact: Trained a GAN to create abstract art pieces!
 
-<div align="center"> <img src="https://profile-counter.glitch.me/RohanPatil2/count.svg?" /> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" /> </div> ```
+<div align="center"> <img src="https://profile-counter.glitch.me/RohanPatil2/count.svg?" /> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" /> </div> 
