@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Upendra+Patil!;" />
   </a>
@@ -27,148 +27,100 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🎓 Education
 
-#### 🤖 AI/ML Ecosystem
+**Binghamton University**  
+*M.S. in Computer Science (AI/ML Specialization)*  
+GPA: 3.47/4.00 | Expected May 2026  
+📚 Relevant Coursework: Machine Learning, Computer Vision, High Performance Computing
+
+**AISSMS College of Engineering**  
+*B.E. in Computer Engineering*  
+GPA: 3.58/4.00 | Graduated June 2024  
+🏅 Relevant Coursework: Deep Learning, Natural Language Processing, Blockchain
+
+---
+
+### 🛠️ Technical Arsenal
+
+#### 🤖 AI/ML Core
 <div align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Transformers-FFD700?logo=huggingface&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat" />
 </div>
 
-#### 💻 Programming Languages
+#### 💻 Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
-</div>
-
-#### 🧩 Frameworks & Libraries
-<div align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-</div>
-
-#### 🗄️ Databases & ORM
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-1F1F1F?logo=sqlalchemy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
 </div>
 
 #### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
-</div>
-
-#### 🔧 Development Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
 </div>
 
 ---
 
-### 📊 Programming Activity
+### 🚀 Featured Projects
 
-#### 🌟 Weekly Development Breakdown
+#### Agentic RAG Medical Assistant
+`LLaMA-3.1-8B` `RAG` `FastAPI`  
+✅ Enhanced response efficiency by 40% via LoRA fine-tuning  
+✅ Integrated 5+ health data streams with adaptive querying
+
+#### NeuralLift-360: 3D Reconstruction
+`PyTorch` `Vision Transformers` `CUDA`  
+🔥 Reduced computational costs by 30% for edge devices  
+🎨 Improved rendering detail by 25% with GAN integration
+
+#### Stock Prediction with BERT
+`NLP` `Twitter API` `GANs`  
+📈 Boosted prediction accuracy by 20% via sentiment analysis  
+🌐 Simulated market scenarios with 15% precision improvement
+
+---
+
+### 🏆 Achievements
+
+- **Patented** ML-Based Power Quality Enhancement System (202321064729A)
+- **Published** in International Journal of Novel Research (BERT for Stock Prediction)
+- **Certified** AWS Machine Learning Specialist & TensorFlow Developer
+
+---
+
+### 📈 GitHub Analytics
+
 <table>
   <tr>
-    <td width="40%">
-      <img src="https://progress-bar.dev/85/?title=Python&scale=100&width=400&color=3776ab&suffix=%" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RohanPatil2&show_icons=true&theme=radical&hide_border=true" />
     </td>
-    <td width="40%">
-      <img src="https://progress-bar.dev/12/?title=JavaScript&scale=100&width=400&color=f7df1e&suffix=%" />
-    </td>
-    <td width="20%">
-      <img src="https://progress-bar.dev/2.5/?title=C++&scale=100&width=200&color=00599c&suffix=%" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPatil2&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
 
-#### 🏅 Language Expertise
 <div align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge&color=3776AB" />
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&color=FF6F00" />
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-Proficient-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=RohanPatil2&theme=radical&hide_border=true" />
 </div>
 
-#### 🚀 Weekly Development Stats
-<details>
-<summary><b>📆 Click to expand weekly insights</b></summary>
+---
 
-🔥 Focus Areas Breakdown:
-┌──────────────────────────────┬─────────────┐
-│        Activity              │   Time      │
-├──────────────────────────────┼─────────────┤
-│ Machine Learning Pipelines   │ 🧠 25h 14m  │
-│ Model Optimization           │ ⚙️ 18h 39m  │
-│ Cloud Deployment             │ ☁️ 12h 52m  │
-│ Code Reviews                 │ 👓 6h 23m   │
-└──────────────────────────────┴─────────────┘
+### 🌟 Current Focus
 
-⏳ Productivity Patterns:
-╔═════════════════╦══════════════════════════╗
-║    Period       ║       Intensity         ║
-╠═════════════════╬══════════════════════════╣
-║ 🌙 Nights       ║ █████████████░░ 45.2%   ║
-║ 🌞 Days         ║ ██████████▓░░░ 32.1%    ║
-║ 🌅 Mornings     ║ ████▒░░░░░░░░ 22.7%    ║
-╚═════════════════╩══════════════════════════╝
-</details>
-📈 Real-time Coding Activity
-<!--START_SECTION:waka-->
+- 🔭 Building Automated ML Pipelines for Edge Computing
+- 🌱 Exploring Generative AI & Diffusion Models
+- 🤝 Seeking AI for Social Good Collaborations
 
-📅 Weekly Development Rhythm        🕒 Historical Trend
-  20h                               ┌──────────────────┐
-  18h                               │▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
-  16h                               │▓▓▓▓▓▓▓▓▓▓▓      │
-  14h                               │▓▓▓▓▓▓▓▓         │
-  12h                               │▓▓▓▓▓            │
-  10h                               └──────────────────┘
-    Mon    Wed    Fri    Sun
-<!--END_SECTION:waka--><div align="center"> <img src="https://github.com/RohanPatil2/RohanPatil2/blob/main/images/tech_stack.gif" width="600" alt="Coding Activity"> </div> ```
-
-📈 GitHub Analytics
-<table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=RohanPatil2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" /> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPatil2&layout=compact&theme=radical&hide_border=true&langs_count=8" /> </td> </tr> </table><div align="center"> <img src="https://streak-stats.demolab.com?user=RohanPatil2&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" /> </div>
-🏆 Recent Achievements
-AWS Certified Machine Learning
-TensorFlow Developer
-Google Cloud AI
-
-🎯 Current Focus
-🔭 Working on Automated ML Pipelines for Edge Devices
-
-🌱 Learning Generative AI and Diffusion Models
-
-👯 Looking to collaborate on AI for Social Good Projects
-
-💬 Ask me about Model Optimization & Deployment Strategies
-
-⚡ Fun fact: Trained a GAN to create abstract art pieces!
-
-<div align="center"> <img src="https://profile-counter.glitch.me/RohanPatil2/count.svg?" /> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" /> </div> 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RohanPatil2/count.svg?" /> 
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" />
+</div>
