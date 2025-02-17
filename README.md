@@ -173,3 +173,13 @@ Google Cloud AI
 ⚡ Fun fact: Trained a GAN to create abstract art pieces!
 
 <div align="center"> <img src="https://profile-counter.glitch.me/RohanPatil2/count.svg?" /> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" /> </div> 
+
+
+### 🐍 Contribution Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohanpatil2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanpatil2/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rohanpatil2/output/github-snake.svg" />
+</picture>
+
