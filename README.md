@@ -94,27 +94,21 @@
 ### 📊 Programming Activity
 
 #### 🌟 Weekly Development Breakdown
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://progress-bar.dev/85/?title=Python&scale=100&width=400&color=3776ab&suffix=%" alt="Python Progress Bar" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://progress-bar.dev/12/?title=JavaScript&scale=100&width=400&color=f7df1e&suffix=%" alt="JavaScript Progress Bar" />
-    </td>
-    <td width="34%" align="center">
-      <img src="https://progress-bar.dev/2.5/?title=C++&scale=100&width=200&color=00599c&suffix=%" alt="C++ Progress Bar" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| **Python**                                                                                                                       | **JavaScript**                                                                                                                            | **C++**                                                                                                                   |
+|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://progress-bar.dev/85/?title=Python&scale=100&width=200&color=3776ab&suffix=%" alt="Python Progress" />         | <img src="https://progress-bar.dev/12/?title=JavaScript&scale=100&width=200&color=f7df1e&suffix=%" alt="JavaScript Progress" />           | <img src="https://progress-bar.dev/2.5/?title=C++&scale=100&width=200&color=00599c&suffix=%" alt="C++ Progress" />       |
+
+</div>
 
 #### 🏅 Language Expertise
 <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge&color=3776AB" alt="Python Expertise" />
+    <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Expertise" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&color=FF6F00" alt="TensorFlow Expertise" />
+    <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow Expertise" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS Expertise" />
@@ -123,7 +117,6 @@
     <img src="https://img.shields.io/badge/C++-Proficient-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++ Expertise" />
   </a>
 </div>
-
 
 #### 🚀 Weekly Development Stats
 <details>
