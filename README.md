@@ -174,6 +174,10 @@ Google Cloud AI
 
 <div align="center"> <img src="https://profile-counter.glitch.me/RohanPatil2/count.svg?" /> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" /> </div> 
 
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohanpatil2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🐍 Contribution Snake Game
 
